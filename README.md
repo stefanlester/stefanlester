@@ -1,4 +1,3 @@
-stefanlester/README.md
 Hi there 👋
 I am a Software Engineer working productively in dynamic environments. Fluent in GoLang, Javascript and Typescript programming languages. My greatest assets are organization, communication, and the ability to learn quickly.
 
